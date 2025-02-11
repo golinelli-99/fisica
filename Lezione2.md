@@ -68,6 +68,7 @@ Negli isolanti, la carica non può muoversi liberamente, ma:
 
 - Un oggetto carico può **polarizzare** le molecole dell'isolante.
 - Il centro delle cariche positive e negative **non coincide più**, formando un **dipolo elettrico**.
+![Testo alternativo](URL-dell-immagine)
 
 Esempio: la **molecola d'acqua** è naturalmente un dipolo permanente.
 
