@@ -61,6 +61,7 @@ Un conduttore può essere caricato **senza contatto** tramite **induzione**:
 3. Se la sfera è **messa a terra**, alcuni elettroni fluiscono via.
 4. Dopo aver **rimosso la messa a terra**, la sfera rimane **carica positivamente**.
 5. Alla fine, rimuovendo la bacchetta, le cariche si **ridistribuiscono uniformemente**.
+<img src="conduttore.png" alt="Description" style="width:300px; height:auto;">
 
 ### 🔬 Induzione negli Isolanti
 
