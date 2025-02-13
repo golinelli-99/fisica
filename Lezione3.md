@@ -58,7 +58,11 @@ $$
 
 ## ⚪ 2. Distribuzioni di Carica Simmetriche
 
-### 🔹 Sfera uniformemente carica  
+### 🔹 Sfera uniformemente carica
+
+<img align="right" width="300" src="conduttore.png" alt="Descrizione">
+<p> 
+  
 Un'**sfera isolante** di raggio \(a\) e densità di carica \(\rho\) ha carica totale \(Q\).  
 
 - **Fuori dalla sfera** (\(r > a\)):
@@ -72,6 +76,10 @@ $$
 $$
   E = \frac{k_e Q r}{a^3}
 $$
+
+
+</p>
+
 
   📌 **Nota**: Il campo cresce linearmente all'interno e diminuisce con \(1/r^2\) all'esterno.
 
