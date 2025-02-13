@@ -10,13 +10,22 @@ Benvenuti alla lezione di oggi sui circuiti elettrici! Esploreremo i concetti fo
 La corrente elettrica è il flusso di carica elettrica, tipicamente confinato all'interno di circuiti composti da materiali conduttori, come i fili. Questo flusso richiede materiali conduttori e permette diverse configurazioni e modelli di circuiti elettrici.
 
 ### 🔄 Tipi di Circuiti
+<img align="right" width="200" src="DC.png" alt="Descrizione">
+<p> 
 1. **Corrente Continua (DC):**  
    - La corrente scorre costantemente in una direzione.  
    - Un generatore fornisce la corrente dal polo positivo a quello negativo, secondo la convenzione di flusso da positivo a negativo.  
+</p>
 
+<img align="right" width="200" src="AC.png" alt="Descrizione">
+<p> 
+   
 2. **Corrente Alternata (AC):**  
    - La corrente cambia direzione periodicamente.  
    - Il generatore in un circuito AC non mantiene una polarità fissa, permettendo alla corrente di alternarsi.  
+
+</p>
+
 
 ### 📏 Intensità di Corrente
 L’intensità di corrente $I$ è definita come il tasso di flusso della carica attraverso una sezione trasversale del filo:
