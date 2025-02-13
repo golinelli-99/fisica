@@ -58,11 +58,12 @@ $$
 
 ## ⚪ 2. Distribuzioni di Carica Simmetriche
 
-### 🔹 Sfera uniformemente carica
+
 
 <img align="right" width="200" src="sferacarica1.png" alt="Descrizione">
 <p> 
   
+### 🔹 Sfera uniformemente carica
 Un'**sfera isolante** di raggio \(a\) e densità di carica \(\rho\) ha carica totale \(Q\).  
 
 - **Fuori dalla sfera** (\(r > a\)):
@@ -83,6 +84,12 @@ $$
 <br>
 <br>
 
+<br>
+<br>
+
+<img align="right" width="200" src="sferacava.png" alt="Descrizione">
+<p> 
+  
 ### 🔹 Guscio sferico uniformemente carico  
 - **All'esterno** è uguale al campo di una carica puntiforme \(Q\):
 
@@ -92,6 +99,15 @@ $$
 
 - **All'interno** è **zero** 🚫, poiché $q_{\text{in}} = 0$.
 
+</p>
+<br>
+<br>
+<br>
+<br>
+
+<img align="right" width="200" src="filo.png" alt="Descrizione">
+<p> 
+  
 ### 🔹 Filo infinitamente lungo con densità di carica \(\lambda\)  
 Per un **cilindro gaussiano** di raggio \(r\):
 
@@ -99,6 +115,16 @@ $$
   E = \frac{\lambda}{2 \pi \varepsilon_0 r}
 $$
 
+</p>
+
+<br>
+<br>
+<br>
+<br>
+
+<img align="right" width="200" src="piano.png" alt="Descrizione">
+<p> 
+  
 ### 🔹 Piano infinitamente carico con densità superficiale \(\sigma\)  
 Per un **cilindro gaussiano perpendicolare al piano**:
 
@@ -107,6 +133,8 @@ $$
 $$
 
 📌 **Nota**: Il campo è **uniforme** e non dipende dalla distanza dal piano.
+
+</p>
 
 ---
 
@@ -135,25 +163,37 @@ $$
   V = \frac{U}{q_0}
 $$
 
-  ed è misurato in **Volt** (\([V] = [J/C]\)).
+  ed è misurato in **Volt** $[V] = [J/C]$.
 
 ### 🔹 Differenza di potenziale  
-Tra due punti \(A\) e \(B\):
+Tra due punti A e B:
 
 $$
-  \Delta V = V_B - V_A = - \int_A^B \mathbf{E} \cdot d\mathbf{s}
+\Delta V = - \int_{A}^{B} \vec{E} \cdot d\vec{s} 
 $$
 
 📌 **Nota**: Le linee di campo vanno da potenziali **alti a bassi**.
 
 ### 🔹 Potenziale di una carica puntiforme  
-Derivando dalla definizione di \(V\):
+Derivando dalla definizione di V:
 
 $$
   V = \frac{k_e q}{r}
 $$
 
   📌 **Superposizione**: Il potenziale di un sistema di cariche è la somma dei singoli contributi.
+
+$$
+V = k_e \sum_{i} \frac{q_i}{r_i}
+$$
+
+
+### 🔹 Potenziale di un conduttore
+
+The surface of any charged conductor in equilibrium is an **equipotential surface**
+Take two points, A and B. If we move from A to B, on the surface, E is always
+perpendicular to the displacement. 
+
 
 ---
 
@@ -186,24 +226,20 @@ $$
 
 ### 🔹 Dielettrici nei condensatori  
 Un **dielettrico** (vetro, plastica, ecc.) **aumenta** la capacità:
+If the dielectric completely fills the space between the plates, the voltage measured between the plates
+decreases by a factor $κ$ known as the dielectric constant of the material
 
-  $$
+$$
+\Delta V = \frac{\Delta V_0}{\kappa}
+$$
+
+$$
+C = \frac{Q_0}{\Delta V} = \frac{Q_0}{\Delta V_0 / \kappa} = \kappa \frac{Q_0}{\Delta V_0} \Rightarrow C = \kappa C_0
+$$
+$$
   C' = \kappa C
-  $$
+$$
 
   📌 **Nota**: Il fattore \(\kappa\) (costante dielettrica) riduce il campo e la tensione tra le piastre.
 
 ---
-
-## 🎯 Conclusioni
-
-💡 **Punti chiave**:
-- La **Legge di Gauss** è un potente strumento per calcolare campi elettrici.
-- Il **potenziale elettrico** è una funzione scalare più facile da gestire rispetto al campo vettoriale.
-- I **condensatori** immagazzinano energia e la loro capacità dipende da forma e dielettrici.
-
-🔬 **Prossimi passi**:
-- Studio dell'**energia elettrostatica**.
-- Applicazioni dei condensatori nei circuiti elettrici.
-
-📖 **Buono studio! 🚀**
