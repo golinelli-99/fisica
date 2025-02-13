@@ -80,8 +80,8 @@ $$
 
 </p>
 
-
-  📌 **Nota**: Il campo cresce linearmente all'interno e diminuisce con \(1/r^2\) all'esterno.
+<br>
+<br>
 
 ### 🔹 Guscio sferico uniformemente carico  
 - **All'esterno** è uguale al campo di una carica puntiforme \(Q\):
