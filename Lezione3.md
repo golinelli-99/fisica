@@ -208,6 +208,10 @@ $$
 
   📌 **Unità di misura**: **Farad** \([F] = [C/V]\).
 
+
+<img align="right" width="200" src="condpiano.png" alt="Descrizione">
+<p> 
+  
 ### 🔹 Condensatore a **piastre parallele**  
 Per due piastre di area \(A\) separate da \(d\):
 
@@ -217,12 +221,21 @@ $$
 
 📌 **Nota**: Per piastre molto grandi il campo è **uniforme**.
 
+</p>
+
+<img align="right" width="200" src="condcil.png" alt="Descrizione">
+<p> 
+  
 ### 🔹 Condensatore **cilindrico**  
 Per un cilindro di raggio \(a\) e un guscio esterno di raggio \(b\):
 
 $$
   C = \frac{2\pi \varepsilon_0 l}{\ln(b/a)}
 $$
+
+</p>
+
+
 
 ### 🔹 Dielettrici nei condensatori  
 Un **dielettrico** (vetro, plastica, ecc.) **aumenta** la capacità:
