@@ -54,6 +54,9 @@ I materiali possono essere suddivisi in:
 
 ### 🔄 Carica per Induzione nei Conduttori
 
+<img align="right" width="300" src="conduttore.png" alt="Descrizione">
+<p> 
+  
 Un conduttore può essere caricato **senza contatto** tramite **induzione**:
 
 1. Una **sfera metallica neutra** ha uguali cariche positive e negative.
@@ -61,17 +64,26 @@ Un conduttore può essere caricato **senza contatto** tramite **induzione**:
 3. Se la sfera è **messa a terra**, alcuni elettroni fluiscono via.
 4. Dopo aver **rimosso la messa a terra**, la sfera rimane **carica positivamente**.
 5. Alla fine, rimuovendo la bacchetta, le cariche si **ridistribuiscono uniformemente**.
-<img src="conduttore.png" alt="Description" style="width:300px; height:auto;">
+</p>
+
+
+<br>
+<br>
 
 ### 🔬 Induzione negli Isolanti
-
+<img align="right" width="200" src="isolante.png" alt="Descrizione">
+<p> 
+  
 Negli isolanti, la carica non può muoversi liberamente, ma:
 
 - Un oggetto carico può **polarizzare** le molecole dell'isolante.
 - Il centro delle cariche positive e negative **non coincide più**, formando un **dipolo elettrico**.
-<img src="isolante.png" alt="Description" style="width:300px; height:auto;">
 
 Esempio: la **molecola d'acqua** è naturalmente un dipolo permanente.
+
+</p>
+<br>
+<br>
 
 ---
 
@@ -153,25 +165,48 @@ $$
 $$
 
 **Densità di carica:**
-- **Lineare** $\lambda: \( dq = \lambda \, dx \)$
-- **Superficiale** $(\(\sigma\)): \( dq = \sigma \, dA \)$
-- **Volumetrica** $(\(\rho\)): \( dq = \rho \, dV \)$
+- **Lineare** $\lambda: dq = \lambda  dx$
+- **Superficiale** $\sigma: dq = \sigma  dA$
+- **Volumetrica** $rho: dq = \rho dV $
 
 Esempi:
+<br>
+<br>
+<br>
+<img align="right" width="300" src="rod.png" alt="Descrizione">
+<p> 
 
-1. **Asta carica uniformemente**:
+  1. **Asta carica uniformemente**:
    - Lunghezza $l$, densità $\lambda$, carica totale $Q = \lambda l$.
    - Campo elettrico ottenuto con integrazione.
 
-2. **Anello carico uniformemente**:
+</p>
+
+
+<br>
+<br>
+<br>
+<img align="right" width="300" src="ring.png" alt="Descrizione">
+<p> 
+
+  2. **Anello carico uniformemente**:
    - Carica $Q$, raggio $a$.
    - Il campo lungo l'asse centrale è dato da:
 
-   $$
+$$
    E = \frac{1}{4 \pi \varepsilon_0} \frac{Q x}{(x^2 + a^2)^{3/2}}
-   $$
+$$
 
-3. **Disco uniformemente carico**:
+</p>
+<br>
+<br>
+<br>
+
+
+<img align="right" width="150" src="disk.png" alt="Descrizione">
+<p> 
+
+   3. **Disco uniformemente carico**:
    - Integrando gli anelli concentrici, si ottiene il campo risultante.
 
 Se il punto è **molto vicino** al disco, il campo è approssimato come quello di un **piano infinito**:
@@ -179,6 +214,13 @@ Se il punto è **molto vicino** al disco, il campo è approssimato come quello d
 $$
 E = \frac{\sigma}{2 \varepsilon_0}
 $$
+
+</p>
+
+
+
+
+
 
 ---
 
@@ -192,7 +234,7 @@ Un modo intuitivo per rappresentare il campo è usare **linee di campo elettrico
 ---
 
 ## 7️⃣ Moto di una Carica in un Campo Elettrico 🚀
-
+<img src="parabolic.png" alt="Description" style="width:300px; height:auto;">
 Se una carica $q$ entra in un campo $\mathbf{E}$, subisce una forza:
 
 $$
@@ -211,3 +253,10 @@ Se un **elettrone** viene sparato orizzontalmente tra due piastre cariche, la su
 
 📌 **Fine della lezione!**  
 ⚡ **Prossimamente: approfondimenti sul campo elettrico!** 🔬
+
+
+
+
+
+
+
