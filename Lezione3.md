@@ -60,7 +60,7 @@ $$
 
 ### 🔹 Sfera uniformemente carica
 
-<img align="right" width="300" src="conduttore.png" alt="Descrizione">
+<img align="right" width="300" src="sferacarica.png" alt="Descrizione">
 <p> 
   
 Un'**sfera isolante** di raggio \(a\) e densità di carica \(\rho\) ha carica totale \(Q\).  
