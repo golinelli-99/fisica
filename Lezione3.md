@@ -102,9 +102,9 @@ $$
 ### 🔹 Piano infinitamente carico con densità superficiale \(\sigma\)  
 Per un **cilindro gaussiano perpendicolare al piano**:
 
-  $$
+$$
   E = \frac{\sigma}{2 \varepsilon_0}
-  $$
+$$
 
 📌 **Nota**: Il campo è **uniforme** e non dipende dalla distanza dal piano.
 
