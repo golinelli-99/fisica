@@ -83,12 +83,7 @@ $$
 
 dove $R$ è la resistenza. In base ai suoi valori si distinguono in:
 
-| **Resistività (ρ) [Ω·m]**       | **Categoria**        | **Esempi**       |
-|-------------------------------|----------------------|-----------------|
-| 1-2 × 10⁻⁸                    | Conduttori          | Metalli         |
-| 0,6 - 2300                     | Semiconduttori      | Silicio         |
-| 10¹⁰ - 10¹⁴                   | Isolanti            | Vetro           |
-| 0,15                           | Conduttori ionici   | Fluidi corporei |
+
 
 
 ### 🏗️ Fattori che Influenzano la Resistenza
@@ -98,8 +93,22 @@ $$
 R = \rho \cdot \frac{L}{A}
 $$
 
+| **Resistività (ρ) [Ω·m]**       | **Categoria**        | **Esempi**       |
+|-------------------------------|----------------------|-----------------|
+| 1-2 × 10⁻⁸                    | Conduttori          | Metalli         |
+| 0,6 - 2300                     | Semiconduttori      | Silicio         |
+| 10¹⁰ - 10¹⁴                   | Isolanti            | Vetro           |
+| 0,15                           | Conduttori ionici   | Fluidi corporei |
+
 ### 🔥 Dissipazione di Potenza
-La potenza $P$ dissipata in un resistore è data da:
+La potenza è definita come $P=V \cdot I$.
+
+Se in un circuito abbiamo un generatore di corrente, esso produce una **forza elettromotrice (EMF)** che non è altro che il potenziale applicato al circuito. (questa tensione V = EMF viene mantenuta dalla batteria in modo costante fino a quando non si scarica).
+
+Avreemo quindi che $P=V \cdot I = EMF \cdot I$
+
+
+La potenza $P$ dissipata in un resistore sarà data da:
 
 $$
 P = I^2 \cdot R = \frac{V^2}{R}
@@ -113,18 +122,18 @@ $$
 1. **Circuiti in Serie:**  
    - Resistenza totale:
 
-     $$
-     R_{\text{totale}} = R_1 + R_2 + \dots + R_n
-     $$
+$$
+   R_{\text{totale}} = R_1 + R_2 + \dots + R_n
+$$
 
    - La stessa corrente scorre attraverso ogni componente.
 
 2. **Circuiti in Parallelo:**  
    - Resistenza totale:
 
-     $$
-     \frac{1}{R_{\text{totale}}} = \frac{1}{R_1} + \frac{1}{R_2} + \dots + \frac{1}{R_n}
-     $$
+$$
+   \frac{1}{R_{\text{totale}}} = \frac{1}{R_1} + \frac{1}{R_2} + \dots + \frac{1}{R_n}
+$$
 
    - La stessa tensione è applicata a ogni componente.
 
