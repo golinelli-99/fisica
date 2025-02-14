@@ -117,7 +117,9 @@ $$
 ---
 
 ## 🔄 Tecniche di Analisi dei Circuiti
-
+<img align="right" width="300" src="serieparal.png" alt="Descrizione">
+<p> 
+   
 ### 🔗 Circuiti in Serie e in Parallelo
 1. **Circuiti in Serie:**  
 
@@ -134,18 +136,27 @@ $$
 $$
 
    - La stessa tensione è applicata a ogni componente.
+</p>
+<br><br>
 
 ### ⚖️ Leggi di Kirchhoff
+<img align="right" width="400" src="kirchoff.png" alt="Descrizione">
+<p> 
+   
 1. **Legge delle Tensioni di Kirchhoff (KVL):**  
    - La somma delle correnti entranti in un nodo è uguale alla somma delle correnti uscenti.
 
 2. **Legge delle Correnti di Kirchhoff (KCL):**  
     - La somma di tutte le tensioni in un circuito chiuso è zero.
 
----
+</p>
+<br>
+<br>
 
 ## 🔋 Condensatori e Accumulo di Energia
-
+<img align="right" width="400" src="RC.png" alt="Descrizione">
+<p> 
+   
 ### ⚡ Condensatori nei Circuiti
 - I condensatori immagazzinano energia in un campo elettrico tra due piastre.
 - La carica $Q$ su un condensatore è data da:
@@ -159,6 +170,9 @@ dove $C$ è la capacità.
 ### 🔄 Carica e Scarica di un Condensatore
 - **Carica:** La tensione su un condensatore aumenta man mano che accumula carica.
 - **Scarica:** L’energia immagazzinata viene rilasciata, causando una diminuzione della tensione.
+   
+
+</p>
 
 ### ⏳ Costante di Tempo
 - La costante di tempo $\tau$ per un circuito resistivo-capacitivo (RC) è:
