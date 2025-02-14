@@ -29,7 +29,8 @@ La corrente elettrica è il flusso di carica elettrica, tipicamente confinato al
    - Il generatore in un circuito AC non mantiene una polarità fissa, permettendo alla corrente di alternarsi.  
 
 </p>
-<br><br>
+<br>
+<br>
 
 ### 📏 Intensità di Corrente
 L’intensità di corrente $I$ è definita come il tasso di flusso della carica attraverso una sezione trasversale del filo:
