@@ -43,7 +43,7 @@ dove $Q$ è la carica e $t$ è il tempo.
 ---
 
 ## 🔍 Vista Microscopica del Flusso di Corrente
-<img align="right" width="200" src="AC.png" alt="Descrizione">
+<img align="right" width="300" src="tubo.png" alt="Descrizione">
 <p> 
    
 ### ⚛️ Portatori di Carica
@@ -54,13 +54,14 @@ dove $Q$ è la carica e $t$ è il tempo.
 La corrente può essere espressa come:
 
 $$
-\frac{dq}{dt} = e \cdot \frac{N}{dt} = e n \frac{V}{dt} = e n \frac{A ds}{dt} = i
+\frac{dq}{dt} = e \cdot \frac{N}{dt} = e n \frac{V}{dt} = e n \frac{A ds}{dt} = I
 $$
 
 $$
 I = n \cdot A \cdot v_d \cdot e
 $$
-<p> 
+</p> 
+
 dove:
 - N è il numero dei portatori di carica
 - $n$ è la densità dei portatori di carica,
@@ -79,7 +80,15 @@ $$
 V = I \cdot R
 $$
 
-dove $R$ è la resistenza.
+dove $R$ è la resistenza. In base ai suoi valori si distinguono in:
+
+| **Resistività (ρ) [Ω·m]**       | **Categoria**        | **Esempi**       |
+|-------------------------------|----------------------|-----------------|
+| 1-2 × 10⁻⁸                    | Conduttori          | Metalli         |
+| 0,6 - 2300                     | Semiconduttori      | Silicio         |
+| 10¹⁰ - 10¹⁴                   | Isolanti            | Vetro           |
+| 0,15                           | Conduttori ionici   | Fluidi corporei |
+
 
 ### 🏗️ Fattori che Influenzano la Resistenza
 La resistenza dipende dalla resistività del materiale $\rho$, dalla lunghezza $L$ e dall'area della sezione trasversale $A$:
