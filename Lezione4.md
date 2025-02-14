@@ -150,11 +150,11 @@ $$
 - I condensatori immagazzinano energia in un campo elettrico tra due piastre.
 - La carica $Q$ su un condensatore è data da:
 
-  $$
+$$
   Q = C \cdot V
-  $$
+$$
 
-  dove $C$ è la capacità.
+dove $C$ è la capacità.
 
 ### 🔄 Carica e Scarica di un Condensatore
 - **Carica:** La tensione su un condensatore aumenta man mano che accumula carica.
@@ -163,11 +163,11 @@ $$
 ### ⏳ Costante di Tempo
 - La costante di tempo $\tau$ per un circuito resistivo-capacitivo (RC) è:
 
-  $$
+$$
   \tau = R \cdot C
-  $$
+$$
 
-  Indica la velocità con cui un condensatore si carica o si scarica.
+Indica la velocità con cui un condensatore si carica o si scarica.
 
 ---
 
@@ -177,12 +177,3 @@ $$
 - I condensatori possono essere utilizzati per filtrare segnali, permettendo il passaggio solo di determinate frequenze.
 - **Filtri passa-alto** permettono il passaggio dei segnali ad alta frequenza, bloccando quelli a bassa frequenza.
 
-### 🏠 Applicazioni nel Mondo Reale
-- I circuiti elettrici sono fondamentali nei cablaggi domestici, nei dispositivi elettronici e molto altro.
-- Comprendere il comportamento dei circuiti aiuta a progettare sistemi più efficienti.
-
----
-
-## 🎯 Conclusione
-
-Oggi abbiamo esplorato i concetti essenziali dei circuiti elettrici, tra cui corrente, resistenza, condensatori e tecniche di analisi dei circuiti. Questi concetti sono la base per argomenti più avanzati. Alla prossima lezione! 😊
