@@ -120,7 +120,6 @@ $$
 
 ### 🔗 Circuiti in Serie e in Parallelo
 1. **Circuiti in Serie:**  
-   - Resistenza totale:
 
 $$
    R_{\text{totale}} = R_1 + R_2 + \dots + R_n
@@ -129,7 +128,6 @@ $$
    - La stessa corrente scorre attraverso ogni componente.
 
 2. **Circuiti in Parallelo:**  
-   - Resistenza totale:
 
 $$
    \frac{1}{R_{\text{totale}}} = \frac{1}{R_1} + \frac{1}{R_2} + \dots + \frac{1}{R_n}
@@ -139,10 +137,10 @@ $$
 
 ### ⚖️ Leggi di Kirchhoff
 1. **Legge delle Tensioni di Kirchhoff (KVL):**  
-   - La somma di tutte le tensioni in un circuito chiuso è zero.
+   - La somma delle correnti entranti in un nodo è uguale alla somma delle correnti uscenti.
 
 2. **Legge delle Correnti di Kirchhoff (KCL):**  
-   - La somma delle correnti entranti in un nodo è uguale alla somma delle correnti uscenti.
+    - La somma di tutte le tensioni in un circuito chiuso è zero.
 
 ---
 
