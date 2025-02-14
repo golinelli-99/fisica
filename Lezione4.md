@@ -43,7 +43,9 @@ dove $Q$ è la carica e $t$ è il tempo.
 ---
 
 ## 🔍 Vista Microscopica del Flusso di Corrente
-
+<img align="right" width="200" src="AC.png" alt="Descrizione">
+<p> 
+   
 ### ⚛️ Portatori di Carica
 - Il flusso di corrente è dovuto ai portatori di carica, tipicamente elettroni nei conduttori.
 - La velocità di deriva media di questi portatori di carica è molto piccola.
@@ -52,14 +54,15 @@ dove $Q$ è la carica e $t$ è il tempo.
 La corrente può essere espressa come:
 
 $$
-\frac{dq}{dt} = e \cdot \frac{N}{dt} = e n \frac{V}{dt} = e n \frac{A dt}{dt} = i
+\frac{dq}{dt} = e \cdot \frac{N}{dt} = e n \frac{V}{dt} = e n \frac{A ds}{dt} = i
 $$
 
 $$
 I = n \cdot A \cdot v_d \cdot e
 $$
-
+<p> 
 dove:
+- N è il numero dei portatori di carica
 - $n$ è la densità dei portatori di carica,
 - $A$ è l'area della sezione trasversale del filo,
 - $v_d$ è la velocità di deriva,
