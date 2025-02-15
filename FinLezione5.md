@@ -54,6 +54,7 @@ dove:
 - $\vec{v}$ è la velocità della particella,
 - $\vec{B}$ è il campo magnetico.
 
+Essendo la forza perpendicolare rispetto alla direzione del moto, essa non produce lavoro e, per la seconda legge di Newton, se non c'è lavoro, non c'è accelerazione. Pertanto, la velocità della particella non cambia, cambia solo la sua direzione.
 La direzione della forza segue la **regola della mano destra**.
 
 ### Movimento Circolare e Forza Centripeta
@@ -73,6 +74,17 @@ dove:
 Se la velocità ha una componente parallela al campo, il movimento risultante sarà a **spirale**.
 
 ## Interazione tra Circuiti e Campi Magnetici
+
+### Particella all'interno di una campo magnetico ed elettrico
+
+Se inserisco una particella all'interno sia di un campo magnetico che di un campo elettrico in modo che la forza risultante sulla particella sia 0, posso selezionarne la velocità:
+
+
+$\vec{F} = q \vec{v} \times \vec{B} + q \vec{E}$ dove $\vec{F}=0$ \
+$q\vec{v}\times\vec{B} = q\vec{E}$ \
+$\vec{E} = \vec{v}\times\vec{B}$ \
+$v = \frac{E}{B}$
+
 
 ### Forza su un Filo Conduttore
 
@@ -120,4 +132,12 @@ $$
 \vec{\tau} = \vec{\mu} \times \vec{B}
 $$
 
+Se $\vec{\mu}$ è parallelo a $\vec{B}$ e quindi $\vec{\tau} = 0$ allora ho due casi possibili di equilibrio:
+
+$$
+\begin{cases}
+\vec{\mu} \parallel \vec{B} & \text{equilibrio stabile} \\
+-\vec{\mu} \parallel \vec{B} & \text{equilibrio instabile}
+\end{cases}
+$$
 
