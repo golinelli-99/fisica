@@ -37,7 +37,8 @@ I muoni, particelle instabili prodotte dai raggi cosmici, dimostrano la dilatazi
 
 $$ \Delta t' = \gamma \Delta t $$
 
-Dove \( \gamma = \frac{1}{\sqrt{1 - \beta^2}} \) e \( \beta = \frac{v}{c} \).
+$$ \gamma = \frac{1}{\sqrt{1 - \beta^2}} $$\
+$$ \beta = \frac{v}{c} $$
 
 ### Contrazione delle Lunghezze
 
@@ -51,8 +52,8 @@ Le trasformazioni di Lorentz permettono di passare da un sistema di riferimento 
 
 ### Definizioni
 
-- **Momento Relativistico:** \( p = \gamma mv \)
-- **Energia Totale:** \( E = \gamma mc^2 \)
+- **Momento Relativistico:** $p = \gamma mv$
+- **Energia Totale:** $E = \gamma mc^2$
 
 ### Relazione tra Energia e Momento
 
